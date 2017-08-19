@@ -15,8 +15,18 @@ iOS - Swift Practice Repository
 	- addSubView
 
 ### 3. iOS_Study_Week_1
- - LaunchScreen.storyboard, Main.storyboard
- - Layout Constraints
- - UIViews(UILabel, UIButton, UITextView)
- - IBOutlet, IBAction
- 
+- LaunchScreen.storyboard, Main.storyboard
+- Layout Constraints
+- UIViews(UILabel, UIButton, UITextView)
+- IBOutlet, IBAction
+
+### 4. iOS_Study_Week_2
+- Sign-In Form Example
+	- ImageView
+	- StackView
+	- Dialog
+	- Regular expression
+	- Gesture Recognizer
+	- UITextFieldDelegate
+	- FirstResponder 
+
