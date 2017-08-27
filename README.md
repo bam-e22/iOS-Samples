@@ -30,3 +30,19 @@ iOS - Swift Practice Repository
 	- UITextFieldDelegate
 	- FirstResponder 
 
+### 5. iOS_Study_Week_3
+- TableView
+	- UITableViewCell
+
+- 화면 전환(Segue)
+	- Action Segue
+	- Manual Segue
+		- performSegue
+		- prepare(화면 전환 시 데이터 전달)
+		- unWind
+
+- Button이 아닌 View에 리스너 달기
+	- extension
+
+- Cocoapod + Toast_Swift 라이브러리 사용
+
