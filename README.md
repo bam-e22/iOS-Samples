@@ -46,3 +46,7 @@ iOS - Swift Practice Repository
 
 - Cocoapod + Toast_Swift 라이브러리 사용
 
+### 6. iOS_Study_Week_4
+- TableView를 UITableViewController를 이용하지 않고 사용해보기
+	- 채팅 형식 구현
+- ScrollView

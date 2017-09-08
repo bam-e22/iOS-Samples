@@ -57,6 +57,12 @@ class ViewController: UITableViewController {
 		performSegue(withIdentifier: SEGUE_MAIN_TO_3, sender: self)
 	}
 	
+	
+	override func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+		print(indexPath.row)
+		tableView.deselectRow(at: indexPath, animated: true)
+	}
+	
 	override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 		
 		if segue.identifier == SEGUE_MAIN_TO_2 {
