@@ -50,3 +50,14 @@ iOS - Swift Practice Repository
 - TableView를 UITableViewController를 이용하지 않고 사용해보기
 	- 채팅 형식 구현
 - ScrollView
+
+### 7. iOS_Study_Week_5
+- 키패드 처리
+	- 여백 터치 시 키패드 닫기
+	- 키패드 열릴 때 뷰 움직이기
+- TableView 채팅 예제에서 TableView 새로고침
+
+
+
+
+
