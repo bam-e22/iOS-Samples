@@ -62,6 +62,43 @@ iOS - Swift Practice Repository
 - ScrollView Paging
 
 
+### 9. iOS_Study_Week_7
+- Swift4 & Xcode9 변경사항 체크
+- Realm
+- Alamofire
+- 날씨앱 만들기
+	- openweathermap.org Open API
+        - Alamofire를 이용하여 날씨 데이터를 받아온 후 JSON parsing해서 TableView에 표시
+	- Realm 사용해보기
+
+### 10. iOS_Study_Week_8
+- Realm
+	- Singleton 패턴의 RealmManager 클래스를 만들어 사용하기
+	- 쿼리를 이용하여 특정 데이터만 가져오기
+	- DispatchQueue를 사용한 백그라운드 처리
+	- Realm에 사용할 클래스 내부에 배열도 추가해보기?
+
+- SwiftyJSON
+	- Alamofire 응답형태 중 JSON 데이터를 조금 더 짧은 코드로 다뤄보기
+
+- 날씨 앱
+	- 프로젝트 생성
+	- iOS 폰에 직접 실행해보기
+	- 라이브러리 연결(Alamofire, Realm, SwiftyJSON
+	- extension을 사용하여 UIAlertController, Alamofire 코드 단순화
+	- Splash 화면 (네트워크 상태 체크)
+	- 메인 화면 (지역리스트, UITableView)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
