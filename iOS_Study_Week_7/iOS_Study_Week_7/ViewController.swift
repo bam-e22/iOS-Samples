@@ -26,6 +26,8 @@ class ViewController: UITableViewController {
 		
 		weatherDataAlamofireLoad()
 		
+		print("ddd")
+		print(NSHomeDirectory())
 	}
 	
 	func handRefresh(_ sender: UIRefreshControl) {

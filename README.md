@@ -72,6 +72,18 @@ iOS - Swift Practice Repository
 	- Realm 사용해보기
 
 ### 10. iOS_Study_Week_8
+- Xcode9
+- Swift4
+	- JSON Encoder, Decoder
+- Realm
+	- Realm Browser 사용해보기
+- AlamofireImage 사용해보기
+
+
+
+
+### TO-DO
+
 - Realm
 	- Singleton 패턴의 RealmManager 클래스를 만들어 사용하기
 	- 쿼리를 이용하여 특정 데이터만 가져오기
